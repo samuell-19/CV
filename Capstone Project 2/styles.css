@@ -1,0 +1,54 @@
+body {
+    background-color: #DCD7C9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav-bar {
+    background-color: #2C3930;
+}
+.profile-pic {
+    border-radius: 3rem;
+    height: 350px;
+    width: 300px;
+    /*filter: grayscale(100%);*/
+}
+
+.headings {
+    color: #2C3930;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.title {
+    color: #2C3930;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.logo {
+    border-radius: 3rem;
+    height: 150px;
+}
+
+.btn {
+    color: #DCD7C9;
+    background-color: #3F4F44;
+    font-weight: bold;
+}
+
+#contact-details {
+    height: 100vh;
+}
+
+.subtitle {
+    color: #3F4F44;
+    font-weight: bold;
+}
+
+#work-experience {
+    background-color: #c7c3b9;
+}
+
+#hobbies {
+    background-color: #c7c3b9;
+}
